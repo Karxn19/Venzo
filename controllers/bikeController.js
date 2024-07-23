@@ -143,7 +143,7 @@ exports.deleteBike = async (req, res) => {
     }
 };
 
-//yet to handle
+
 exports.getBikeStats = async (req, res) => {
     try {
         const stats = await Bike.aggregate([

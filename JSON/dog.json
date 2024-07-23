@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Max",
+        "breed": "Retriever",
+        "age": 3,
+        "color": "Golden",
+        "gender": "Male",
+        "ImageURL": "https://images.dog.ceo/breeds/retriever-golden/joey_20210805_130226.jpg",
+        "description": "Friendly and intelligent, loves to play fetch."
+    },
+    {
+        "name": "Bella",
+        "breed": "German Shepherd",
+        "age": 4,
+        "color": "Black and Tan",
+        "gender": "Female",
+        "ImageURL": "https://images.dog.ceo/breeds/germanshepherd/n02106662_3431.jpg",
+        "description": "Loyal and courageous, great for protection."
+    },
+    {
+        "name": "Charlie",
+        "breed": "Bulldog",
+        "age": 2,
+        "color": "Brindle",
+        "gender": "Male",
+        "ImageURL": "https://images.dog.ceo/breeds/bulldog-boston/n02096585_11417.jpg",
+        "description": "Gentle and affectionate, loves lounging."
+    },
+    {
+        "name": "Lucy",
+        "breed": "Beagle",
+        "age": 5,
+        "color": "Tri-color",
+        "gender": "Female",
+        "ImageURL": "https://images.dog.ceo/breeds/beagle/n02088364_9318.jpg",
+        "description": "Curious and merry, enjoys sniffing around."
+    },
+    {
+        "name": "Cooper",
+        "breed": "Poodle",
+        "age": 1,
+        "color": "White",
+        "gender": "Male",
+        "ImageURL": "https://images.dog.ceo/breeds/poodle-toy/n02113624_2308.jpg",
+        "description": "Smart and active, loves learning tricks."
+    },
+    {
+        "name": "Daisy",
+        "breed": "Siberian Husky",
+        "age": 2,
+        "color": "Gray and White",
+        "gender": "Female",
+        "ImageURL": "https://images.dog.ceo/breeds/husky/n02110185_7762.jpg",
+        "description": "Friendly and outgoing, enjoys the cold."
+    }
+]
